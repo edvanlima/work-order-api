@@ -2,5 +2,5 @@
 
 ## Tools:
 
-- Eslint 
-
+- Eslint
+- Vitest
